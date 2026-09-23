@@ -1,0 +1,4 @@
+
+#로그기록
+echo "$(date '+%Y-%m-%d %H:%M:%S') 백업완료:  $BACKUP_DIR/backup.log"
+echo "로그 기록 완료"
