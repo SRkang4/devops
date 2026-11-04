@@ -16,7 +16,7 @@ Service를 생성하여 여러 Pod에 요청을 분산했다.
 `replicas`를 5로 늘려 guestbook Pod가 5개 실행되는 것을 확인했다. 
 이를 통해 필요에 따라 앱의 실행 개수를 조절할 수 있다는 것을 알았다.
 
-![Pod 5개 실행 결과](images/pods5.png)
+![Pod 5개 실행 결과](image/pods5.png)
 
 ## 5. 롤링 업데이트
 새로운 이미지를 GHCR에 올린 뒤 Deployment의 이미지 버전을 변경했다. 
