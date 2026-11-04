@@ -10,3 +10,4 @@
 - [6주차 Dockerfile](./week06/)
 - [7주차 Docker Compose](./week07/)
 - [9주차 쿠버네티스 베포](./week09/)
+- [10주차 쿠버네티스 배포와 서비스](./week10/)

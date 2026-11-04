@@ -1,0 +1,4 @@
+FROM ghcr.io/kangseulgyu/guestbook:v2
+
+ENV APP_TITLE="강현의 방명록" \
+    THEME_COLOR="#7C9A82"
